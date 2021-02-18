@@ -4,3 +4,5 @@ WPU RESOLUSI
 - Membuat forum diskusi
 - Kolaborasi dengan lebih banyak expert
 - Membuat vlog
+- Video belajar linux dari tingkatan pemula sampai expert
+- Video tutorial pemasangan SSL di windows server dan linux  
